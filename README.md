@@ -25,7 +25,7 @@
 
 ### Captura 
 
-<p align="center"><img src="[https://raw.githubusercontent.com/bryanthaboi/gen1recomp/refs/heads/dev/assets/logo/logo.png](https://i.ibb.co/ynZnhnbG/ligen.png)"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/bryanthaboi/gen1recomp/refs/heads/dev/assets/logo/logo.png"></p>
 
 
 ## 🛠️ Tecnologías
