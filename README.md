@@ -9,6 +9,10 @@
 ## 📖 Descripción
 
 **PokeRed3D** es un proyecto que busca recrear la experiencia clásica de Pokémon Red con gráficos y mecánicas en 3D, manteniendo la esencia del juego original mientras incorpora mejoras visuales y técnicas.
+## ✨ compatibles estan todos en La Crpeta PokemonROO 
+- Red: `ea9bcae617fdf159b045185467ae58b2e4a48b9a`
+- Blue: `d7037c83e1ae5b39bde3c30787637ba1d4c48ce2`
+- Yellow: `cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1`
 
 ## ✨ Características
 
@@ -19,9 +23,9 @@
 - 💾 Proyecto de código abierto.
 - 🚀 Actualizaciones constantes.
 
-## 📸 Capturas
+### Ver Video
 
-Próximamente...
+[![Watch the latest update video](https://img.youtube.com/vi/8IOgqbe4YvA/maxresdefault.jpg)](https://www.youtube.com/watch?v=8IOgqbe4YvA)
 
 ## 🛠️ Tecnologías
 
