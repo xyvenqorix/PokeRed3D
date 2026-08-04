@@ -23,9 +23,10 @@
 - 💾 Proyecto de código abierto.
 - 🚀 Actualizaciones constantes.
 
-### Ver Video
+### Captura 
 
-[![Watch the latest update video](https://img.youtube.com/vi/8IOgqbe4YvA/maxresdefault.jpg)](https://www.youtube.com/watch?v=8IOgqbe4YvA)
+<p align="center"><img src="https://raw.githubusercontent.com/bryanthaboi/gen1recomp/refs/heads/dev/assets/logo/logo.png"></p>
+
 
 ## 🛠️ Tecnologías
 
