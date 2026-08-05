@@ -1,4 +1,5 @@
 # 🎮 PokeRed3D
+<a href="https://github.com/xyvenqorix/PokeRed3D/releases/tag/Pok%C3%A9monCompatibleEmu3d">Releases</a>
 
 > Una reinterpretación de Pokémon Red en un mundo 3D, desarrollada como proyecto de código abierto.
 
